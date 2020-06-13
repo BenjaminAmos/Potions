@@ -16,7 +16,7 @@
 package org.terasology.potions;
 
 import org.terasology.rendering.nui.CoreScreenLayer;
-import org.terasology.rendering.nui.widgets.UILabel;
+import org.terasology.nui.widgets.UILabel;
 
 public class PotionStatusScreen extends CoreScreenLayer {
 
